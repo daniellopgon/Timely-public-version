@@ -89,7 +89,7 @@ Here, employees can:
 - Edit their check-in or check-out times.  
 - Adjust break times.  
 - Add missing entries if they forgot to check in.  
-![Check-in Modification](./assets/checkin-modification.png)
+![Check-in Modification](checkin-modification.png)
 
 ---
 
