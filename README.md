@@ -76,6 +76,7 @@ This design ensures **simplicity and a clean UI**.
 - Includes a **calendar view** where granted or pending vacations are visually displayed.  
 
 To request a vacation, simply select the start and end date directly on the calendar.  
+
 ![Vacation Page](vacation-page.png)
 
 ---
