@@ -45,14 +45,16 @@ If you'd like to review the code, please contact me via **[LinkedIn](https://www
 
 ### 🔑 Login Screen  
 On this screen, you need to log in. Depending on your role, you will be redirected to the corresponding home screen.  
-![Login Screen](./assets/login-screen.png)
+
+![Login Screen](login-screen.png)
 
 ---
 
 ### 👥 Employees Screen  
 Here you can register your check-in, check-out, and breaks. Your assigned work schedule is also displayed.  
 This screen is designed to be **simple and user-friendly** to minimize errors.  
-![Employees Screen](./assets/employees-screen.png)
+
+![Employees Screen](employees-screen.png)
 
 ---
 
@@ -62,7 +64,8 @@ The check-in and check-out buttons are dynamic:
 - Once a break is finished, you can either start another break or check out.  
 
 This design ensures **simplicity and a clean UI**.  
-![Dynamic Buttons](./assets/dynamic-buttons.png)
+
+![Dynamic Buttons](dynamic-buttons.png)
 
 ---
 
@@ -73,14 +76,15 @@ This design ensures **simplicity and a clean UI**.
 - Includes a **calendar view** where granted or pending vacations are visually displayed.  
 
 To request a vacation, simply select the start and end date directly on the calendar.  
-![Vacation Page](./assets/vacation-page.png)
+![Vacation Page](vacation-page.png)
 
 ---
 
 ### 📝 Permission Request Page  
 Similar to the vacation request page but includes an additional field for the **reason for the request**.  
 In the future, it could differentiate between **paid and unpaid permissions**.  
-![Permission Page](./assets/permission-page.png)
+
+![Permission Page](permission-page.png)
 
 ---
 
@@ -88,7 +92,8 @@ In the future, it could differentiate between **paid and unpaid permissions**.
 Here, employees can:  
 - Edit their check-in or check-out times.  
 - Adjust break times.  
-- Add missing entries if they forgot to check in.  
+- Add missing entries if they forgot to check in.
+  
 ![Check-in Modification](checkin-modification.png)
 
 ---
