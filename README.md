@@ -28,7 +28,8 @@ It features a **role-based system**:
 
 ## 📂 Project Structure  
 
-<img width="381" height="357" alt="Estructura_proyecto" src="https://github.com/user-attachments/assets/069c6ed8-58d2-4dc2-9346-2124150635b6" />
+ ![Project Screen](project.png)
+
 
 ---
 
