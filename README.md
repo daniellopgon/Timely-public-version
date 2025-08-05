@@ -98,4 +98,31 @@ Here, employees can:
 
 ---
 
+###  👨‍💼 Manager Interface
+
+The Manager Interface provides a comprehensive platform for employee management.
+From this page, you can:
+
+Search for employees by name or email.
+**Approve or reject vacation requests, permissions, and check-in/check-out modifications.**
+**View aggregated reports of your employees' activity and export them in CSV format for further analysis.**
+
+Below are some examples of the interface:
+
+### Employee Selection
+
+![Employee Selection](employee-selection.png)
+
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard-overview.png)
+
+
+### Approve or Reject Requests
+
+![Approve or Reject Requests](approve-or-reject-requests.png)
+
+---
+
 
