@@ -116,12 +116,12 @@ Below are some examples of the interface:
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](dashboard- overview.png)
 
 
 ### Approve or Reject Requests
 
-![Approve or Reject Requests](approve-or-reject-requests.png)
+![Approve or Reject Requests](approve-or-reject- requests.png)
 
 ---
 
